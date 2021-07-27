@@ -1,1 +1,1 @@
-# Portfolio
+Eduard Ionescu - Web Developer Portfolio
